@@ -1,0 +1,30 @@
+*{
+margin: 0;    
+}
+
+h1{
+    text-align: center;
+}
+
+.First-title{
+background-color:#AEFEFF;
+text-align: center;
+position: relative;
+}
+
+.Second-title{
+ background-color: blueviolet;
+}
+.fish{
+    text-decoration: underline;
+}
+.top-cloud{
+position: absolute;
+top: 40px;
+right: 150px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 60px;
+    left: 40px;
+}
